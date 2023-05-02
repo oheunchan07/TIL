@@ -4,4 +4,4 @@
    * [MarkDown](https://github.com/oheunchan07/TIL/blob/main/MarkDown.md)
 * HTML
 
-   * [MarkDown](https://github.com/oheunchan07/TIL/blob/main/HTML.md)
+   * [HTML](https://github.com/oheunchan07/TIL/blob/main/HTML.md)
