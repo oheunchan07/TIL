@@ -1,4 +1,4 @@
-# Today I Learn (TIL)
+# Today I Learned (TIL)
 * MarkDown
 
    * [MarkDown](https://github.com/oheunchan07/TIL/blob/main/MarkDown.md)
