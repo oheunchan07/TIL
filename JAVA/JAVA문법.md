@@ -24,3 +24,16 @@ public static void main(){
 #### main() 메소드는 반드시 public static void로 선언되어야 한다
 <br>
 
+- - -
+### 자바의 표준 입출력 클래스
+#### 자바는 system이라는 표준 입출력 클래스를 사용한다
+```
+System.out.println(출력할 데이터)
+```
+#### 출력할 데이터를 출력하고 줄바꿈까지 해준다
+<br>
+
+```
+System.out.print(출력할 데이터)
+```
+#### 출력할 데이터를 출력하고 줄바꿈은 하지 않는다
