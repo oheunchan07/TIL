@@ -11,4 +11,4 @@
    * [Git](https://github.com/oheunchan07/TIL/blob/main/Git/Git.md)
 * JAVA
 
-   * [JAVA란](https://github.com/oheunchan07/TIL/blob/main/JAVA/JAVA.md)
+   * [JAVA란](https://github.com/oheunchan07/TIL/blob/main/JAVA/JAVA%EB%9E%80.md)
