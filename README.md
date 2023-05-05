@@ -12,3 +12,4 @@
 * JAVA
 
    * [JAVA란](https://github.com/oheunchan07/TIL/blob/main/JAVA/JAVA%EB%9E%80.md)
+   * [JAVA문법](https://github.com/oheunchan07/TIL/blob/main/JAVA/JAVA%EB%9E%80.md)
