@@ -70,3 +70,29 @@ final int AGES = 30;
 |논리형 타입|메모리의 크기|표현 범위|
 |---|---|---|
 |boolean|1바이트|true or false|
+- - -
+<br>
+
+## JAVA 타입 변환
+
+### 타입 캐스트
+```
+(변환할타입) 변환할데이터
+```
+#### 데이터를 변환활 타입으로 바꿔준다
+
+### ex)
+```
+int num = 1,nu2 = 4;
+
+double result1 = num1 / num2;
+double result2 = (double) num1 / num2;
+
+System.out.println(result1);
+System.out.println(result2);
+```
+### 출력 값
+```
+0.0
+0.25
+```
