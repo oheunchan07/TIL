@@ -19,7 +19,7 @@
    * [JAVA배열](https://github.com/oheunchan07/TIL/blob/main/JAVA/JAVA%EB%B0%B0%EC%97%B4.md)
 * SPRINGBOOT
 
-   * [spring boot란?](https://github.com/oheunchan07/TIL/blob/main/springboot/springboot%EB%9E%80%3.md)
+   * [spring boot란?](https://github.com/oheunchan07/TIL/blob/main/springboot/springboot%EB%9E%80%3F.md)
 *  SPRINGBOOT
 
    * [spring](https://github.com/oheunchan07/TIL/blob/main/spring/spring.md)
