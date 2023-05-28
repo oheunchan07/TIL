@@ -20,6 +20,6 @@
 * SPRINGBOOT
 
    * [spring boot란?](https://github.com/oheunchan07/TIL/blob/main/springboot/springboot%EB%9E%80%3F.md)
-*  SPRINGBOOT
+*  SPRING
 
    * [spring](https://github.com/oheunchan07/TIL/blob/main/spring/spring.md)
