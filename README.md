@@ -19,7 +19,7 @@
    * [JAVA배열](https://github.com/oheunchan07/TIL/blob/main/JAVA/JAVA%EB%B0%B0%EC%97%B4.md)
 *  SPRING
 
-   * [spring빌드하고 실행하는 법](https://github.com/oheunchan07/TIL/edit/main/spring/spring%EB%B9%8C%EB%93%9C%ED%95%98%EA%B3%A0%20%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94%20%EB%B2%95.md)
+   * [spring빌드하고 실행하는 법](https://github.com/oheunchan07/TIL/blob/main/spring/spring%EB%B9%8C%EB%93%9C%ED%95%98%EA%B3%A0%20%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 * SPRINGBOOT
 
    * [spring boot란?](https://github.com/oheunchan07/TIL/blob/main/springboot/springboot%EB%9E%80%3F.md)
