@@ -12,4 +12,4 @@
    * [JAVA타입](https://github.com/oheunchan07/TIL/blob/main/JAVA/JAVA%ED%83%80%EC%9E%85.md)
    * [JAVA연산자](https://github.com/oheunchan07/TIL/blob/main/JAVA/JAVA%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
    * [JAVA제어문](https://github.com/oheunchan07/TIL/blob/main/JAVA/JAVA%EC%A0%9C%EC%96%B4%EB%AC%B8.md)
-   * [JAVA기초언어](https://github.com/oheunchan07/TIL/blob/main/JAVA/JAVA%EA%B8%B0%EC%B4%88%EB%8B%A8%EC%96%B4.md)
+   * [JAVA기초단어](https://github.com/oheunchan07/TIL/blob/main/JAVA/JAVA%EA%B8%B0%EC%B4%88%EB%8B%A8%EC%96%B4.md)
