@@ -14,3 +14,4 @@
    * [JAVA제어문](https://github.com/oheunchan07/TIL/blob/main/JAVA/JAVA%EC%A0%9C%EC%96%B4%EB%AC%B8.md)
    * [JAVA기초단어](https://github.com/oheunchan07/TIL/blob/main/JAVA/JAVA%EA%B8%B0%EC%B4%88%EB%8B%A8%EC%96%B4.md)
 * CS
+   * [CS기초단어](https://github.com/oheunchan07/TIL/blob/main/CS/CS%EA%B8%B0%EC%B4%88%EB%8B%A8%EC%96%B4.md)
