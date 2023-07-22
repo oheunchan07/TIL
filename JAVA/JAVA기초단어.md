@@ -73,3 +73,12 @@
 * 캡슐화를 할 수 있는 방법은 2가지가 있다
     * 접근제어자: 접근제어자는  클래스 또는 클래스의 내부의 멤버들에 사용되어 해당 클래스나 멤버들을 외부에서 접근하지 못하도록 접근을 제한하는 역할을 한다
     * getter/setter 메서드:  선택적으로 외부에 접근을 허용할 속성과 그렇지 않을 속성을 getter/setter 메서드를 통해 설정해줄 수 있다
+
+## solid
+
+### solid 5원칙
+### 1. SRP(Single responsibility principle): 단일 책임 원칙
+### 2. OCP(Open-closed principle) : 개방-폐쇄 원칙
+### 3. LSP(Liskov substitution principle) : 리스코프 치환 원칙
+### 4. ISP(Interface segregation principle) : 인터페이스 분리 원칙
+### 5. DIP(Dependency inversion principle) : 의존관계 역전 원칙
