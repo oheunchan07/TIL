@@ -1,4 +1,4 @@
-# JAVA기초단어
+# JAVA단어
 
 ## solid 5원칙
 ### 1. SRP(Single responsibility principle): 단일 책임 원칙
