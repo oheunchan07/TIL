@@ -1,6 +1,6 @@
-# getter와 setter
+# getter setter
 
-## getter와 setter의 역할: private를 관리하는 메소드
+## getter setter의 역할: private를 관리하는 메소드
 <br>
 
 ## getter란?
