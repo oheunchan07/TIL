@@ -1,4 +1,5 @@
 # CS
 
 ## CS란?
-### 고객 서비스(Customer Service)의 약자로 CS는 Customer Satisfacion의 약자이다
+### computer service에 약자로 컴퓨터 과학을 의미한다
+* CS는 알고리즘, 데이터 구조, 소프트웨어 아키텍처 등의 개념을 포함하고 있다
