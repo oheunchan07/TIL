@@ -29,3 +29,12 @@ public class ApplicationConfig {
 ### @Autowired
 >field, setter, construct에 사용하면 type에 따라서 Bean을 주입시켜 준다
 * 무조건 적인 객체에 대한 의존성을 주입시킨다
+
+### @Controller
+>Spirng의 Controller를 의미한다
+* Spring MVC에서 Controller클래스에 쓰인다
+
+### @RestController
+>Spring에서 Controller중 view로 응답하지 않는 Controller를 의미한다
+*  method의 결과를 JSON형태로 반환해준다
+*  @RestController 어노테이션이 적혀있는 Controller의 메서드는 HttpResponse로 바로 응답 가능하다
