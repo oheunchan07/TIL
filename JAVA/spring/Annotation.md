@@ -38,3 +38,11 @@ public class ApplicationConfig {
 >Spring에서 Controller중 view로 응답하지 않는 Controller를 의미한다
 *  method의 결과를 JSON형태로 반환해준다
 *  @RestController 어노테이션이 적혀있는 Controller의 메서드는 HttpResponse로 바로 응답 가능하다
+
+### @Service
+>Service 클래스애서 쓰인다<br>
+>비즈니스적인 로직을 수행하는 클래스라는 것을 나타내는 용도이다
+
+### @Repository
+>DAO 클래스에 쓰인다<br>
+>database에 접근하는 메소드를 가지고 있는 클래스에 쓰인다
