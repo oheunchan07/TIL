@@ -3,7 +3,7 @@
 ## REST(Representational State Transfer)
 >REST는 HTTP URI를 통해서 제어할 자원을 명시하고 HTTP메소드를 통해 해단 자원을 제어하는 아키텍쳐이다  
 >HTTP메소드에는 POST,GET,PUT,DELETE가 있다  
->서버는 요청으로 받은 리소스에 대해 순수한 데이터로 전송하고 데이터 처리만 하거나 반환 될 데이터가 있다면 JSOM이나 XML형식으로 전잘된다
+>서버는 요청으로 받은 리소스에 대해 순수한 데이터로 전송하고 데이터 처리만 하거나 반환 될 데이터가 있다면 JSOM이나 XML형식으로 전달된다
 
 ## REST의 특징
 >**Uniform Interface(인터페이스의 일관성)**  
