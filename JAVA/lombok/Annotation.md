@@ -45,6 +45,11 @@ public class User {
 ### @RequiredArgsConstructor
 >final필드와 @NotNull로 마크되어 있는 필드들한테 생성자를 자동으로 생성시켜준다
 
+### @EqualsAndHashCode
+>Equals랑 HashCode를 자동으로 완성시켜준다
+* Equals: 두 객체의 내용이 같은지 동등성을 비교해주는 연산자
+* HashCode: 두 객체가 같은 객체인지 동알성을 비교해주는 연산자
+
 ### @Data
 >이 어노테이션들을 한 번에 설정해준다
 * @Getter / @Setter
