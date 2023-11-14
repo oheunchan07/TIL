@@ -5,7 +5,7 @@
 
 ![image](https://github.com/oheunchan07/TIL/assets/131967057/f227ed0f-89b3-4649-9ef7-ec9fae9096e8)
 
-## Lifecycle 메서드
+## Acticity Lifecycle 메서드
 |메서드|설명|
 |---|------------------|
 |onCreate()|액티비티 생성 시 가장 빠르게 실행|
@@ -16,7 +16,7 @@
 |onRestart()|다른 액티비티나 홈 화면에서 돌아옴|
 |onDestroy()|앱을 종료|
 
-## LIfecycle 메서드 특징
+## Acticity LIfecycle 메서드 특징
 ### onCreate
 * 액티비티 생성 시 가장 먼저 호출한다
 * 생명 주기동안 한번만 호출한다
