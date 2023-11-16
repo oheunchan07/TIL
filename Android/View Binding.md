@@ -17,5 +17,5 @@ android {
 ### Activity
 ```
 binding = ActivityMainBinding.inflate(getLayoutInflater());
-setContentView(binding.getRoot());
+setContentView(binding.root);
 ```
