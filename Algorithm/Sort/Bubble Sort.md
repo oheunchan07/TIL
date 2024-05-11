@@ -28,7 +28,7 @@ public static void Bubble_Sort(int[] a, int size) {
 			if(a[j] > a [j + 1]) {
 				int temp = a[i];
 		 		a[i] = a[j];
-	    	a[j] = temp;
+				a[j] = temp;
 			}
 		}      
 	}
