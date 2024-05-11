@@ -23,12 +23,12 @@
 ## Bubble Sort 코드
 ```
 public static void Bubble_Sort(int[] a, int size) {
-for(int i = 1; i < size; i++) {			
+	for(int i = 1; i < size; i++) {			
 		for(int j = 0; j < size - i; j++) {
 			if(a[j] > a [j + 1]) {
 				int temp = a[i];
-		    		a[i] = a[j];
-	      			a[j] = temp;
+		 		a[i] = a[j];
+	    	a[j] = temp;
 			}
 		}      
 	}
