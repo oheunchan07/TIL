@@ -23,7 +23,7 @@
 > 최악: T(n) = O(n^2)
 
 ## Shell Sort 코드
-```
+``` java
 public class Shell_Sort {
 
     private final static int[] gap = 

@@ -23,7 +23,7 @@
 > T(n) = O(n^2)
 
 ## Selection Sort 코드
-```
+``` java
 public static void selection_sort(int[] a, int size) {
 	for(int i = 0; i < size - 1; i++) {
         int min_index = i;	

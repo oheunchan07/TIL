@@ -21,7 +21,7 @@
 > T(n) = O(n^2)
 
 ## Bubble Sort 코드
-```
+``` java
 public static void Bubble_Sort(int[] a, int size) {
 	for(int i = 1; i < size; i++) {			
 		for(int j = 0; j < size - i; j++) {

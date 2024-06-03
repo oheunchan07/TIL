@@ -21,7 +21,7 @@
 > T(n) = O(n log2 n)
 
 ## Merge Sort 코드
-```
+``` java
 private static void merge(int[] a, int left, int mid, int right) {
     int l = left;
     int r = mid + 1; 

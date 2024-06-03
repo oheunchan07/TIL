@@ -23,7 +23,7 @@
 > 최악: T(n) = O(n^2)
 
 ## Quick Sort 코드
-```
+``` java
 public class QuickSort {
     public static void sort(int[] a) {
         l_pivot_sort(a, 0, a.length - 1);

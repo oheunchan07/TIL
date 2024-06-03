@@ -19,7 +19,7 @@
 > 최악, 평균: T(n) = O(n^2)
 
 ## Insertion Sort 코드
-```
+``` java
 public class Insertion_Sort {
     public static void insertion_sort(int[] a) {
         insertion_sort(a, a.length);
