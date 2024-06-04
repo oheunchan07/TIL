@@ -13,10 +13,6 @@
 ## DFS 구현
 ### 재귀를 통한 구현
 ``` java
-static boolean[] vistied = new boolean[/*노드 수*/]
-
-static int[][] graph = {/*노드*/}
-
 static void dfs(int nodeIndex) {
     vistied[nodeIndex] = true;
 
@@ -32,12 +28,6 @@ static void dfs(int nodeIndex) {
 
 ### 스택을 통한 구현
 ``` java
-static boolean[] vistied = new boolean[/*노드 수*/]
-
-static int[][] graph = {/*노드*/}
-
-static Stack<Integer> stack = new Stack<>();
-
 public static void main(String[] args) {
 		
     stack.push(1);
