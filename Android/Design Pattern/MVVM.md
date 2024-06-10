@@ -2,7 +2,7 @@
 
 ## MVVM?
 > MVVM패턴은 Model, View, ViewModel을 분리해 뷰와 모덴갈의 의존성을 줄여준다.  
-> 여기서 ViewModel은 View와 Model 사이에서 뷰에 이벤트에 따라 모델이 데이터를 저장이나 반환하도록 통시해주는 역활이다.
+> 여기서 ViewModel은 View와 Model 사이에서 뷰에 이벤트에 따라 모델이 데이터를 저장이나 반환하도록 통신해주는 역활이다.
 > 이런 구조를 갖게 된다면 View와 Model을 분리시켜 로직을 작성하고 ViewModel을 통해 데이터와 통신 할 수 있다.
 
 ![image](https://github.com/oheunchan07/TIL/assets/131967057/7e588672-648e-4309-8a4c-e9b48479c268)
