@@ -3,7 +3,6 @@
 ## MVP?
 > MVP패턴은 Model, View, Presenter를 분리해 뷰와 모덴갈의 의존성을 줄여준다.  
 > View에서는 Model을 직접적으로 호출하지 못하고 Presenter를 이용해 호출하게 되고 모델 또한 마찬가지이다.  
-> 
 
 ![image](https://github.com/oheunchan07/TIL/assets/131967057/f64abe4e-3287-4ea5-946b-8995a8494165)
 
